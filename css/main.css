@@ -5,3 +5,26 @@ ul {
   list-style: none;
   display: inline-block;
 }
+++++++++++++++++++++++
+*{
+  box-sizing: border-box;
+}
+.icon-pinterest:before  {
+  color: red ;
+}
+.Menu-fixed li{
+  outline: 1px solid red;
+  list-style: none;
+  display: inline-block;
+  box-sizing: border-box;
+}
+nav {
+  outline: 1px solid brown;
+}
+ul li {
+  outline: 1px solid blue;
+  display: inline-block;
+  list-style: none;
+  margin-left: 80px;
+  box-sizing: border-box;
+}
